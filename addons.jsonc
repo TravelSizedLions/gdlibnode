@@ -3,5 +3,13 @@
   "name": "gdlibnode",
   "description": "Common godot node utils",
   "version": "0.0.0",
-  "addons": {}
+  "cache": "../.addons",
+  "addons": {
+    "tree-access": {
+      "url": "https://github.com/TravelSizedLions/tree-access.git",
+      "source": "remote",
+      "subfolder": "addons/tree_access",
+      "checkout": "dev"
+    }
+  }
 }
