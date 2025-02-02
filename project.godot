@@ -14,6 +14,5 @@ config/name="gdlibnode"
 run/main_scene="uid://12y8l0tlwktd"
 config/features=PackedStringArray("4.4", "Forward Plus")
 
-[autoload]
-
-TreeAccess="*res://addons/tree_access/tree_access.gd"
+[editor_plugins]
+enabled=PackedStringArray("res://addons/tree-access/plugin.cfg")
