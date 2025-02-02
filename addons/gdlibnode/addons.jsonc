@@ -8,7 +8,7 @@
     "tree-access": {
       "url": "https://github.com/TravelSizedLions/tree-access.git",
       "source": "remote",
-      "subfolder": "addons/tree_access",
+      "subfolder": "addons/tree-access",
       "checkout": "dev"
     }
   }
