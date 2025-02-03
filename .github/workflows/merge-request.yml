@@ -6,4 +6,4 @@ on:
 
 jobs:
   unit-tests:
-    uses: TravelSizedLions/actions/.github/workflows/.github/workflows/test-drive.yaml@dev
+    uses: TravelSizedLions/actions/.github/workflows/test-drive.yaml@dev
