@@ -1,0 +1,9 @@
+name: Merge Request
+run-name: '#${{github.event.pull_request.number}}: "${{github.event.pull_request.title}}" [${{github.actor}}]'
+on:
+  pull_request:
+    branches: ["dev"]
+
+jobs:
+  unit-tests:
+    uses: TravelSizedLions/actions/.github/workflows/.github/workflows/test-drive.yaml@dev
