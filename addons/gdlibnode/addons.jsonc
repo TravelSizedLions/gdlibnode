@@ -2,7 +2,7 @@
   "$schema": "https://chickensoft.games/schemas/addons.schema.json",
   "name": "gdlibnode",
   "description": "Common godot node utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "cache": "../.addons",
   "addons": {
     "tree-access": {
