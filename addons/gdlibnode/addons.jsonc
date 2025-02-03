@@ -9,7 +9,7 @@
       "url": "https://github.com/TravelSizedLions/tree-access.git",
       "source": "remote",
       "subfolder": "addons/tree-access",
-      "checkout": "v0.0.1"
+      "checkout": "v0.0.3"
     }
   }
 }
