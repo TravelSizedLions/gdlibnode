@@ -16,7 +16,7 @@ config/features=PackedStringArray("4.4", "Forward Plus")
 
 [autoload]
 
-TreeAccess="*res://addons/tree-access/tree_access.gd"
+TreeAccess="*res://addons/tree-access/src/tree_access.gd"
 
 [editor_plugins]
 
