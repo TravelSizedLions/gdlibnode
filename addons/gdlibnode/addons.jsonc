@@ -6,10 +6,10 @@
   "cache": "../.addons",
   "addons": {
     "tree-access": {
-      "url": "https://github.com/TravelSizedLions/tree-access.git",
-      "source": "remote",
+      "url": "../tree-access",
+      "source": "local",
       "subfolder": "addons/tree-access",
-      "checkout": "v0.0.3"
+      "checkout": "dev"
     }
   }
 }
